@@ -1,0 +1,7 @@
+analysis_cohort,Mutation_Group,n
+Primary_966_cases,BRCA1_mutant,9
+Primary_966_cases,BRCA2_mutant,8
+Primary_966_cases,WT,949
+PAM50_common_support_845_cases,BRCA1_mutant,9
+PAM50_common_support_845_cases,BRCA2_mutant,6
+PAM50_common_support_845_cases,WT,830

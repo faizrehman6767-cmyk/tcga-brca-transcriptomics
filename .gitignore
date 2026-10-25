@@ -1,0 +1,34 @@
+# R/RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+
+# Local configuration
+config/project_config.R
+
+# Raw GDC downloads and large derived objects
+RNA_data/
+MAF_data/
+GDCdata/
+data/raw/
+data/processed/
+*.rds
+*.RDS
+*.rda
+*.RData
+*.gz
+*.tsv
+
+# Large model/count objects
+DESeq2_*model*.rds
+*counts*.rds
+*workspace*.RData
+
+# Temporary and operating-system files
+*.tmp
+*.temp
+Thumbs.db
+.DS_Store
+

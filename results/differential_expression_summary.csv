@@ -1,0 +1,10 @@
+Model,Comparison,FDR_below_0.05,FDR_below_0.05_and_abs_LFC_at_least_1
+Primary_966_cases,BRCA1_vs_WT,947,613
+Primary_966_cases,BRCA2_vs_WT,440,392
+Primary_966_cases,BRCA1_vs_BRCA2,238,217
+Common_support_unadjusted_845_cases,BRCA1_vs_WT,782,449
+Common_support_unadjusted_845_cases,BRCA2_vs_WT,42,33
+Common_support_unadjusted_845_cases,BRCA1_vs_BRCA2,61,55
+PAM50_adjusted_845_cases,BRCA1_vs_WT,131,109
+PAM50_adjusted_845_cases,BRCA2_vs_WT,77,51
+PAM50_adjusted_845_cases,BRCA1_vs_BRCA2,68,63

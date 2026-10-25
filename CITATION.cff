@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite this repository."
+title: "TCGA-BRCA BRCA1/BRCA2 transcriptomics"
+type: software
+authors:
+  - family-names: "Rehman"
+    given-names: "Faizur"
+year: 2026
+

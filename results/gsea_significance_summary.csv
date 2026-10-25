@@ -1,0 +1,4 @@
+Model,Comparison,Pathways_tested,Significant_pathways,Significant_positive_NES,Significant_negative_NES
+PAM50_adjusted,BRCA1_vs_WT,50,14,14,0
+PAM50_adjusted,BRCA2_vs_WT,50,10,6,4
+PAM50_adjusted,BRCA1_vs_BRCA2,50,21,16,5
